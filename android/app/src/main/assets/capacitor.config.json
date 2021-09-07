@@ -1,0 +1,6 @@
+{
+	"appId": "com.tinywallet.app",
+	"appName": "tinywallet",
+	"webDir": "out",
+	"bundledWebRuntime": false
+}
